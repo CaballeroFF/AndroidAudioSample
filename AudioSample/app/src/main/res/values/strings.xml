@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AudioSample</string>
+    <string name="default_text">N/A</string>
+    <string name="amplitude_text">Amp</string>
+    <string name="decibel_text">Db</string>
+    <string name="frequency_text">Hz</string>
+</resources>
